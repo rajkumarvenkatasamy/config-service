@@ -1,0 +1,4 @@
+CLIENT_ID,GROUP_ID,DATABASE_URL,TIMEZONE,API_KEY_IDENTIFIER
+A4,TENANTID_TEST,r2dbc:postgresql://postgres:P@ssw0rd@10.47.101.106:5432/bimonitor_jenkin,Asia/Kolkata,WrongApiKey
+VIG,VIG,r2dbc:postgresql://opsmon:P@ssw0rd@10.51.14.240/opsview_oracle_run_24_05_2021,Asia/Kolkata,WrongApiKey
+PTP,PTP,r2dbc:postgresql://opsmon:P@ssw0rd@10.43.81.154/o2_ptp_prod_backup_05jan21,Asia/Kolkata,n3gkcWdUUU-p6DfZV8BhySUBhtsw8m5CRKp5kssRngsvNRZ2KAr
